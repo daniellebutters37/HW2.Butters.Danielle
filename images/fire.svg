@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FEDB75;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000000;stroke-miterlimit:10;}
+
+	#details {
+		display:block;
+	}
+
+	@media screen and (max-width: 100px) {
+		#details {
+			display: none;
+		}
+	}
+
+</style>
+<g id="fire">
+	<circle id="circle_10_" class="st0" cx="150.7" cy="150.7" r="122.3"/>
+	<path id="logs" class="st1" d="M205.6,189.2l-12.2-4.5l12.1-4.5c5.9-2.2,8.9-8.7,6.8-14.6l-2.5-6.8c-2.2-5.9-8.7-8.9-14.6-6.8
+		l-45.1,16.6l-45.3-16.8c-5.9-2.2-12.4,0.9-14.6,6.7l-2.5,6.8c-2.2,5.9,0.9,12.4,6.7,14.6l12.3,4.6l-12.4,4.6
+		c-5.9,2.2-8.9,8.7-6.8,14.6l2.5,6.8c2.2,5.9,8.7,8.9,14.6,6.8l45.4-16.7l45.2,16.7c5.9,2.2,12.4-0.9,14.6-6.7l2.5-6.8
+		C214.5,197.9,211.4,191.3,205.6,189.2z"/>
+	<path id="outerFlame" class="st1" d="M182.7,121.4c2.3,20-14.8,36.4-33,36.4c-15.4,0-28.5-12.2-32.2-28.2
+		c-1.2-5.4-1.2-11.1,0.3-16.5c3.8-13.6,15.4-30.9,38.2-47.3C151.9,93.4,180.1,98.5,182.7,121.4z"/>
+</g>
+<g id="details">
+	<line id="bottomLine" class="st2" x1="104" y1="183.6" x2="157.3" y2="203.3"/>
+	<line id="topLine" class="st2" x1="148" y1="167.9" x2="196.3" y2="185.7"/>
+	<path id="outerFlame_1_" class="st1" d="M173.9,131.1c1.7,14.7-10.8,26.8-24.2,26.8c-11.3,0-20.9-9-23.6-20.7
+		c-0.9-4-0.9-8.1,0.2-12.1c2.8-10,7.7-19.5,24.4-31.6C147.7,113.6,172,114.2,173.9,131.1z"/>
+</g>
+</svg>
