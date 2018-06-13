@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg version="1.1" class="mainIcon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#FEDB75;stroke:#000000;stroke-miterlimit:10;}
@@ -19,7 +19,7 @@
 
 </style>
 <g id="picnicTable">
-	<circle id="circle_2_" class="st0" cx="150" cy="151.2" r="122.3"/>
+	<circle id="circle" class="st0" cx="150" cy="151.2" r="122.3"/>
 	<path id="table" class="st1" d="M229.6,153h-45.4l-16-27.7h33c4.2,0,7.7-3.5,7.7-7.7s-3.5-7.7-7.7-7.7H98.6c-4.2,0-7.7,3.5-7.7,7.7
 		s3.5,7.7,7.7,7.7H131L115,153H70.5c-4.2,0-7.7,3.5-7.7,7.7l0,0c0,4.2,3.5,7.7,7.7,7.7h35.6l-15.3,26.5c-1.1,1.8-0.4,4.2,1.4,5.3
 		l0,0c1.8,1.1,4.2,0.4,5.3-1.4l17.5-30.3h69l17.6,30.5c1.1,1.8,3.4,2.5,5.3,1.4s2.5-3.4,1.4-5.3L193,168.3h36.6
