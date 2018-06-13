@@ -8,7 +8,7 @@ var iconSet = document.querySelectorAll(".icons");
 
 
 function logLoaded(evt) {
-	// console.log("svg loaded");
+	console.log("svg loaded");
 	// console.log(evt);
 	var targetSVG = evt.currentTarget;
 	console.log(targetSVG);
@@ -25,7 +25,7 @@ function logClicked(evt) {
 
 for(var i=0; i<iconSet.length; i++) {
 	iconSet[i].addEventListener("load", logLoaded, false);
-	// console.log(i);
+	console.log(i);
 }
 
 })();
